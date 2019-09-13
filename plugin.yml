@@ -1,0 +1,6 @@
+name: CannonFullPvP
+main: com.cannonnetwork.fullpvp.Main
+version: 1.0
+author: zSwert_
+commands:
+  setaritem:
